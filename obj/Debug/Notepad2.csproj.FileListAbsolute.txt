@@ -1,0 +1,73 @@
+D:\My_Book_Shelf\Practice\Notepad2\bin\Debug\Notepad2.exe.config
+D:\My_Book_Shelf\Practice\Notepad2\bin\Debug\Notepad2.exe
+D:\My_Book_Shelf\Practice\Notepad2\bin\Debug\Notepad2.pdb
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.csproj.AssemblyReference.cache
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.csproj.SuggestedBindingRedirects.cache
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\MainWindow.g.cs
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\App.g.cs
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2_MarkupCompile.cache
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2_MarkupCompile.lref
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\MainWindow.baml
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.g.resources
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.cache
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.csproj.CoreCompileInputs.cache
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.exe
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Notepad2.pdb
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\Templates\DayMode.baml
+D:\My_Book_Shelf\Practice\Notepad2\obj\Debug\App.baml
+D:\Samples\Notepad2\bin\Debug\Notepad2.exe.config
+D:\Samples\Notepad2\bin\Debug\Notepad2.exe
+D:\Samples\Notepad2\bin\Debug\Notepad2.pdb
+D:\Samples\Notepad2\obj\Debug\Notepad2.csproj.AssemblyReference.cache
+D:\Samples\Notepad2\obj\Debug\Notepad2.csproj.SuggestedBindingRedirects.cache
+D:\Samples\Notepad2\obj\Debug\Templates\DayMode.baml
+D:\Samples\Notepad2\obj\Debug\MainWindow.g.cs
+D:\Samples\Notepad2\obj\Debug\App.g.cs
+D:\Samples\Notepad2\obj\Debug\Notepad2_MarkupCompile.cache
+D:\Samples\Notepad2\obj\Debug\Notepad2_MarkupCompile.lref
+D:\Samples\Notepad2\obj\Debug\App.baml
+D:\Samples\Notepad2\obj\Debug\MainWindow.baml
+D:\Samples\Notepad2\obj\Debug\Notepad2.g.resources
+D:\Samples\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+D:\Samples\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.cache
+D:\Samples\Notepad2\obj\Debug\Notepad2.csproj.CoreCompileInputs.cache
+D:\Samples\Notepad2\obj\Debug\Notepad2.exe
+D:\Samples\Notepad2\obj\Debug\Notepad2.pdb
+D:\Samples\Notepad2\obj\Debug\SaveMessageBox.g.cs
+D:\Samples\Notepad2\obj\Debug\SaveMessageBox.baml
+D:\Samples\Notepad2\obj\Debug\GoTo.g.cs
+D:\Samples\Notepad2\obj\Debug\GoTo.baml
+D:\Samples\Notepad2\obj\Debug\AboutNotepad.g.cs
+D:\Samples\Notepad2\obj\Debug\AboutNotepad.baml
+D:\Samples\Notepad2\obj\Debug\Finder.g.cs
+D:\Samples\Notepad2\obj\Debug\Finder.baml
+D:\Samples\Notepad2\obj\Debug\Replacer.g.cs
+D:\Samples\Notepad2\obj\Debug\Replacer.baml
+D:\Samples\Original Notepad\Notepad2\bin\Debug\Notepad2.exe.config
+D:\Samples\Original Notepad\Notepad2\bin\Debug\Notepad2.exe
+D:\Samples\Original Notepad\Notepad2\bin\Debug\Notepad2.pdb
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.csproj.AssemblyReference.cache
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Templates\DayMode.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\AboutNotepad.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Finder.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\GoTo.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\MainWindow.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Replacer.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\SaveMessageBox.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\App.g.cs
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2_MarkupCompile.cache
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2_MarkupCompile.lref
+D:\Samples\Original Notepad\Notepad2\obj\Debug\App.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\AboutNotepad.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Finder.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\GoTo.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\MainWindow.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Replacer.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\SaveMessageBox.baml
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.g.resources
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.cache
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.csproj.CoreCompileInputs.cache
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.exe
+D:\Samples\Original Notepad\Notepad2\obj\Debug\Notepad2.pdb

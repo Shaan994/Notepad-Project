@@ -1,0 +1,22 @@
+﻿<Window x:Class="Notepad2.GoTo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notepad2"
+        mc:Ignorable="d" ShowInTaskbar="False"
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize"
+        Title="Go To Line" Height="130" Width="251" Loaded="Window_Loaded" Icon="/goto.png">
+    <StackPanel Margin="10,1,10,10">
+        <Label Content="_Line number:"
+               HorizontalContentAlignment="Left"/>
+        <TextBox Name="LineNumberToGo"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right"
+                    Margin="0,8,0,0">
+            <Button Content="Ok" Name="Okbtn" Width="70" IsDefault="True" 
+                    Margin="0,0,8,0" Click="Okbtn_Click"/>
+            <Button Content="Cancle" Name="Cancelbtn" Width="70" IsDefault="True" Margin="0,0,8,0" Click="Cancelbtn_Click"/>
+            
+        </StackPanel>
+    </StackPanel>
+</Window>
